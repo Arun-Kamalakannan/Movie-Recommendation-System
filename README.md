@@ -10,6 +10,7 @@ The goal is to recommend movies based on similarity in content such as **genres,
 This is achieved by combining data from two datasets:
 - `tmdb_5000_movies.csv`
 - `tmdb_5000_credits.csv`
+- Dataset link- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ---
 
